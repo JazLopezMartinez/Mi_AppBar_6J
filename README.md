@@ -1,4 +1,4 @@
-# p8_6j_appbar
+# p8_6j_AppBar
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
